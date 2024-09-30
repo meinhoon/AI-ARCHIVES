@@ -1,0 +1,5 @@
+Consider a file system with a block size of 512 B and in size (block number) size of 32 bits then there is a file in the system 130872B and 5130 B how many additional blocks are needed to enlarge the file by 700B if the follows 
+
+Contiguous
+Indexed 
+Linked
